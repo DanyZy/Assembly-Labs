@@ -31,5 +31,7 @@
 *.out
 *.app
 
+# For this repo
 /Debug
 *.vcxproj*
+pch.*
